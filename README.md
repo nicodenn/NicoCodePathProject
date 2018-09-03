@@ -6,7 +6,7 @@
 ### App Walk-though
 `TODO://` 
 
-<img src="NicoCodePathVideo.gif" width=200><br>
+<img src="NicoVideo.gif" width=200><br>
 
 
 ### Required User Stories
